@@ -1,0 +1,1 @@
+Defines the trait `IteratorExt` extending `Iterator` with `find_or_{first,nth,last}` methods.
